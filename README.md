@@ -1,48 +1,64 @@
-![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
-<h1 align="center">Hi 👋, I'm Ashutosh Malviya</h1>
-<h3 align="center">Technical Lead & Full Stack Developer</h3>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=aashutoshmalviya&label=Profile%20views&color=0e75b6&style=flat" alt="aashutoshmalviya" /> 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" width="100%" />
 </p>
 
-- [cite_start]🚀 **Currently:** Engineering Lead at **Tata Consultancy Services (TCS)**, managing a team of 7+ developers[cite: 8, 24, 26].
-- [cite_start]🛠️ **Modernizing:** Leading the architectural migration of massive-scale G2C portals to **Angular & Microservices**[cite: 26].
-- [cite_start]📱 **Android Expertise:** Previously architected secure **Fintech KYC** workflows and modular UI components at OneBanc[cite: 34, 36, 38].
-- [cite_start]🌱 **Learning:** Currently scaling high-concurrency systems using **Kafka, Redis, and Docker**[cite: 40, 41, 42].
-- [cite_start]🏆 **Achievements:** Meta Hacker Cup 2022 Qualifier and CodeVita Hackathon selected[cite: 47, 48].
-- [cite_start]📫 **Reach me:** [ashutoshmalviyaofficial@gmail.com](mailto:ashutoshmalviyaofficial@gmail.com) [cite: 2]
 
----
-
-### 🛠️ Tech Stack & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Backend** | [cite_start]Java, Spring Boot, Kotlin, Microservices, RESTful APIs [cite: 17] |
-| **Mobile** | [cite_start]Android SDK, Kotlin Multiplatform (KMP), Coroutines, MVVM/MVI [cite: 21] |
-| **Frontend** | [cite_start]Angular (TypeScript), JavaScript, JSP, HTML/CSS [cite: 19] |
-| **Databases** | [cite_start]PostgreSQL, MySQL, Firestore, SQLite, Redis [cite: 18, 40] |
-| **DevOps/Tools** | [cite_start]Docker, Git/GitHub, GitLab, SVN, Android Studio, IntelliJ [cite: 20, 40] |
-
----
-
-### 📈 Performance & Impact
-* [cite_start]**System Optimization:** Reduced API latency by **10-15%** through SQL query optimization[cite: 28].
-* [cite_start]**Fintech Security:** Implemented **AES encryption** for critical banking data privacy standards[cite: 36].
-* [cite_start]**Scalability:** Designed hierarchical booking algorithms to balance loads across regional offices[cite: 29].
-* [cite_start]**Efficiency:** Reduced application bundle size by **15 MB** via automated asset cleanup scripts[cite: 37].
+<h1 align="center">Ashutosh Malviya</h1>
+<p align="center">
+  <strong>Technical Lead @ Tata Consultancy Services | Full Stack Architect | Android Specialist</strong>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashutoshmalviya&show_icons=true&theme=tokyonight" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashutoshmalviya&layout=compact&theme=tokyonight" alt="Languages" />
+  <img src="https://img.shields.io/badge/Experience-Technical%20Lead-0e75b6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-System%20Design%20%26%20Scalability-orange?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=aashutoshmalviya&label=Profile%20Impact&color=0e75b6&style=flat-square" />
 </p>
 
 ---
 
-### 🔗 Connect with me:
+### ⚡ The High-Level Summary
+I am a performance-driven Engineer with a track record of rapid growth—**promoted to Technical Lead at TCS within 14 months.** I specialize in modernizing massive legacy infrastructures and building high-concurrency FinTech solutions. 
+
+* **Engineering Leadership:** Currently steering a team of 7 to migrate mission-critical State Government portals.
+* **FinTech & Security:** Architected AES-encrypted KYC workflows and secure payment foundations.
+* **System Optimization:** Specialized in reducing technical debt and improving latency in distributed systems.
+
+---
+
+### 🛠️ Strategic Tech Stack
+
+| Domain | Expert Proficiency |
+| :--- | :--- |
+| **Backend** | Java, Spring Boot, Microservices, Kotlin, RESTful APIs |
+| **Mobile** | Kotlin Multiplatform (KMP), Android SDK, Coroutines, MVVM/MVI |
+| **Architecture** | Redis, Kafka, Distributed Systems, System Design |
+| **Data & DevOps** | PostgreSQL, Docker, Firebase, Git, CI/CD |
+
+---
+
+### 🚀 Performance Metrics & Impact
+* **[Scalability]** Building a high-concurrency booking engine utilizing **Kafka** for message streaming and **Redis** for sub-millisecond caching.
+* **[Efficiency]** Reduced API latency by **10-15%** for public-sector services through strategic database indexing and query optimization.
+* **[Optimization]** Shaved **15MB** off Android app binaries by engineering automated asset-cleanup scripts.
+* **[Resilience]** Designed an **Auto-Recovery "Draft State" Engine**, ensuring zero data loss for users on unstable networks.
+
+---
+
+### 🏆 Recognition & Coding Pedigree
+* **Meta Hacker Cup '22:** Qualified 2 Rounds.
+* **TCS CodeVita:** Selected via Google's premier global hackathon.
+* **Competitive Programming:** 300+ Problems solved (Gold Badge in Java & DSA).
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aashutoshmalviya&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashutoshmalviya&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+### 🤝 Let's Connect
 <p align="left">
-<a href="https://linkedin.com/in/aashutoshmalvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashutoshmalvi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aashutoshmalviya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aashutoshmalviya" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ashutosh_malvi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ashutosh_malvi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aashutoshmalvi" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.leetcode.com/aashutoshmalviya" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+<a href="mailto:ashutoshmalviyaofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
